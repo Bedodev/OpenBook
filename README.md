@@ -2,7 +2,7 @@
 OpenBook is an open Source eBook Project that aims to create a simple yet powerful esp32-based ebook reader, with quality of life features. 
 
 ## Block Diagram
-![block-diagram]()
+![block-diagram](https://raw.githubusercontent.com/Bedodev/OpenBook/refs/heads/main/Images/diagram.png)
 
 ## Simplified BoM
 Component | Part # | Source Link
